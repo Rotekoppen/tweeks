@@ -6,6 +6,7 @@ Currently:
 - Armor stands with hands
 
 ## Installation
-
-1. Download the newest tweeks.zip from [the releases page](https://github.com/Rotekoppen/tweeks/releases)
-1. Save it inside `.minecraft/saves/<the world you want it on/datapacks/`
+1. Install fabric
+2. Install [Nbt crafting](https://www.curseforge.com/minecraft/mc-mods/nbt-crafting)
+3. Download the newest tweeks.zip from [the releases page](https://github.com/Rotekoppen/tweeks/releases)
+4. Save it inside `.minecraft/saves/<the world you want it on/datapacks/`
