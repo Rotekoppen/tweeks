@@ -1,0 +1,45 @@
+{
+  "type": "crafting_shapeless",
+  "group": "invisible_glow_item_frame",
+  "ingredients": [
+    {
+      "potion": "minecraft:long_invisibility"
+    },
+    {
+      "item": "minecraft:glow_item_frame"
+    },
+    {
+      "item": "minecraft:glow_item_frame"
+    },
+    {
+      "item": "minecraft:glow_item_frame"
+    },
+    {
+      "item": "minecraft:glow_item_frame"
+    },
+    {
+      "item": "minecraft:glow_item_frame"
+    },
+    {
+      "item": "minecraft:glow_item_frame"
+    },
+    {
+      "item": "minecraft:glow_item_frame"
+    },
+    {
+      "item": "minecraft:glow_item_frame"
+    }
+  ],
+  "result": {
+    "item": "minecraft:glow_item_frame",
+    "data": {
+      "display":{
+        "Name":"{\"text\":\"Invisible Glow Item Frame\",\"italic\":false}"
+      },
+      "EntityTag": {
+        "Invisible":1
+      }
+    },
+    "count": 8
+  }
+}

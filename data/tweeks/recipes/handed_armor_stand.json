@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "-i-"
+  ],
+  "key": {
+    "-": {
+      "item": "minecraft:stick"
+    },
+    "i": {
+      "item": "minecraft:armor_stand"
+    }
+  },
+  "result": {
+    "item": "minecraft:armor_stand",
+    "data": {
+      "display":{
+        "Name":"{\"text\":\"Handed Armor Stand\",\"italic\":false}"
+      },
+      "EntityTag": {
+        "ShowArms":1
+      }
+    }
+  }
+}
