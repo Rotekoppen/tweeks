@@ -3,7 +3,8 @@
   "group": "invisible_item_frame",
   "ingredients": [
     {
-      "potion": "minecraft:long_invisibility"
+      "potion": "minecraft:long_invisibility",
+      "remainder": { "item": "minecraft:glass_bottle" }
     },
     {
       "item": "minecraft:item_frame"

@@ -3,7 +3,8 @@
   "group": "invisible_glow_item_frame",
   "ingredients": [
     {
-      "potion": "minecraft:invisibility"
+      "potion": "minecraft:invisibility",
+      "remainder": { "item": "minecraft:glass_bottle" }
     },
     {
       "item": "minecraft:glow_item_frame"
