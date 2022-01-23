@@ -4,9 +4,12 @@ A datapack with a few crafting recipies for items unobtainable in survival vanil
 Currently:
 - Invisible item frames, both normal and glowing
 - Armor stands with hands
+- Bundles
 
 ## Installation
 1. Install fabric
 2. Install [Nbt crafting](https://www.curseforge.com/minecraft/mc-mods/nbt-crafting)
 3. Download the newest tweeks.zip from [the releases page](https://github.com/Rotekoppen/tweeks/releases)
 4. Save it inside `.minecraft/saves/<the world you want it on/datapacks/`
+
+(Instead of step 3 and 4 you can clone this repo `git clone https://github.com/Rotekoppen/tweeks`)
