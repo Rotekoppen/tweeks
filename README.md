@@ -12,4 +12,6 @@ Currently:
 3. Download the newest tweeks.zip from [the releases page](https://github.com/Rotekoppen/tweeks/releases)
 4. Save it inside `.minecraft/saves/<the world you want it on/datapacks/`
 
-(Instead of step 3 and 4 you can clone this repo `git clone https://github.com/Rotekoppen/tweeks`)
+(Instead of step 3 you can clone this repo `git clone https://github.com/Rotekoppen/tweeks`)
+
+(You can also add the datapack when creating a world by dragging the zip file into the datapacks list on the world creation menu)
