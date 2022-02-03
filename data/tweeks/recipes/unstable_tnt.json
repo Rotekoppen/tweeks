@@ -1,0 +1,31 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "gog",
+    "rtr",
+    "grg"
+  ],
+  "key": {
+    "t": {
+      "item": "minecraft:tnt"
+    },
+    "g": {
+      "item": "minecraft:gunpowder"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "o": {
+      "item": "minecraft:observer"
+    }
+  },
+  "result": {
+    "item": "minecraft:tnt",
+    "data": {
+      "display":{
+        "Name":"{\"text\":\"Unstable TNT\",\"italic\":false}"
+      },
+      "BlockStateTag":{"unstable":"true"}
+    }
+  }
+}
