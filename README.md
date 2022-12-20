@@ -4,7 +4,7 @@ A datapack with a few crafting recipies for items unobtainable in survival vanil
 Currently:
 - Invisible item frames, both normal and glowing
 - Armor stands with hands
-- Bundles
+- Bundles (Spawns in desert temples and pillager outposts)
 - Unstable TNT
 
 ## Installation
